@@ -1,0 +1,26 @@
+.line{
+    width: 50px;
+    height: 5px;
+    background-color: gold;
+    margin: auto;
+    margin-bottom: 20px;
+}
+body{
+    text-align: center;
+}
+#apps{
+    background-color: teal;
+}
+#chatbot{
+    background-color: aquamarine;
+    
+}
+#Games{
+    background-color: dodgerblue;
+}
+img{
+    transition: transform .2s;
+}
+img:hover{
+    transform: scale(0.9);
+}
